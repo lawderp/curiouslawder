@@ -1,0 +1,4 @@
+[build]
+base = "curiouslawder-app/"
+publish = "curiouslawder-app/build/"
+command = "npm run build"
